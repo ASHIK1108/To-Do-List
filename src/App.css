@@ -75,13 +75,17 @@ button.add:hover {
   background-color: #357ab8;
 }
 
-button.set-reminder,
+button.set-reminder{
+  background-color: #3b66de;
+}
 button.delete {
   background-color: #d9534f;
   color: #fff;
 }
 
-button.set-reminder:hover,
+button.set-reminder:hover{
+  background-color: #2c75c9;
+}
 button.delete:hover {
   background-color: #c9302c;
 }
